@@ -1,0 +1,16 @@
+# Python build artefakti
+__pycache__/
+*.pyc
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Lokalne datoteke
+messages.db
+
+# Editor konfiguracije (VSCode, PyCharm itd.)
+.vscode/
+.idea/
+*.log
