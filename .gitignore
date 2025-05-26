@@ -14,3 +14,4 @@ messages.db
 .vscode/
 .idea/
 *.log
+*.iml
